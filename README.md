@@ -1,131 +1,31 @@
-# 🚀 Emrullah Söyler
+<h1 align="center">Hi 👋, I'm Emrullah Söyler</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Emrullah%20Söyler&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyleremo3&label=Profile%20views&color=0e75b6&style=flat" alt="soyleremo3" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyleremo3" alt="soyleremo3" /></a> </p>
+
+- I’m currently working on [Uber Simulator](https://github.com/soyleremo3/Uber_Simulator)
+
+- I’m currently learning **Unity|C# and AI**
+
+- My Website [https://emrullahsoylerpersonalwebsite.vercel.app/](https://emrullahsoylerpersonalwebsite.vercel.app/)
+
+- You can contact me via my email address: **emrullahsoy82@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/emrullah soyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrullah soyler" height="30" width="40" /></a>
+<a href="https://kaggle.com/emrullahsyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emrullahsyler" height="30" width="40" /></a>
+<a href="https://instagram.com/soyler_emo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soyler_emo3" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@realpickandsee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@realpickandsee" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Game+Developer;Software+Engineer;AI+Enthusiast;Unity+Developer;Always+Learning+Something+New"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyleremo3&show_icons=true&locale=en&layout=compact" alt="soyleremo3" /></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emrullah_S%C3%B6yler-6f42c1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emrullah-soyler-032442421/?locale=tr)
-[![Instagram](https://img.shields.io/badge/Instagram-soyler__emo3-purple?style=for-the-badge&logo=instagram)](https://instagram.com/soyler_emo3)
-[![Email](https://img.shields.io/badge/Gmail-emrullahsoy82@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:emrullahsoy82@gmail.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyleremo3&show_icons=true&locale=en" alt="soyleremo3" /></p>
 
-</p>
-
----
-
-# About Me
-
-I am a passionate software engineering student focused on **Game Development**, **Artificial Intelligence**, **Unity**, and **Robotics**.
-
-My goal is to build software that is clean, scalable and enjoyable to use while continuously improving my engineering skills through real-world projects.
-
-## Current Focus
-
-- 🎮 Forgotten Island
-- 🤖 FRC Robotics
-- 🧠 AI Assisted Development
-- 💜 Open Source
-
----
-
-# Tech Stack
-
-## Languages
-
-C# • Java • Python • HTML • CSS • JavaScript
-
-## Game Development
-
-Unity 6 • Cinemachine • Physics • UI Toolkit • Input System
-
-## Software Engineering
-
-Git • GitHub • VS Code • OOP • SOLID • REST APIs
-
-## AI
-
-Prompt Engineering • LLMs • APIs • Computer Vision
-
----
-
-# Featured Projects
-
-## Forgotten Island
-
-Open World RPG built with Unity.
-
-- Quest System
-- Inventory
-- NPC Interaction
-- Combat
-- Exploration
-
----
-
-## Uber Simulator
-
-Driving simulation project focused on scalable architecture.
-
----
-
-## Unity Learning Project
-
-Sandbox project for experimenting with Unity systems.
-
----
-
-## FRC Robot Swerve Drive
-
-Competition robotics software using WPILib.
-
----
-
-# GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=soyleremo3&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyleremo3&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=soyleremo3&theme=tokyonight)
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Unity
-  - AI
-  - Software Architecture
-
-Building:
-  - Forgotten Island
-  - Unity Portfolio
-
-Open To:
-  - Internship
-  - Freelance
-  - Open Source
-```
-
----
-
-# Contact
-
-- GitHub: https://github.com/soyleremo3
-- LinkedIn: https://www.linkedin.com/in/emrullah-soyler-032442421/?locale=tr
-- Instagram: https://instagram.com/soyler_emo3
-- Email: emrullahsoy82@gmail.com
-
----
-
-> "Code. Create. Continuously Improve."
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyleremo3&" alt="soyleremo3" /></p>
