@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/emrullah-soyler-032442421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrullah soyler" height="30" width="40" /></a>
 <a href="https://instagram.com/soyler_emo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soyler_emo3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@RealPickAndSee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@realpickandsee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cosmokko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@realpickandsee" height="30" width="40" /></a>
 <a href="https://kaggle.com/emrullahsyler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emrullahsyler" height="30" width="40" /></a>
 </p>
 
