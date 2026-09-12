@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEQmSyVnrf7wA/profile-displaybackgroundimage-shrink_350_1400/B4DaAaNITjKQAU-/0/1787146044929?e=1788998400&v=beta&t=aPmH-vCNT9HcVnJc0yzZ6g1YGdudrNL4XsrVcmnJXXI)
+![MasterHead](https://yt3.googleusercontent.com/1cc3DDVxGGHjMZECVkyT3VFsa-zbGsiPn_8FrEEAf2M4gNZg_L1zfoSA3Z7TYmPN_UtTzQ8Agg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 <h1 align="center">Hi 👋, I'm Emrullah Söyler</h1>
 <h3 align="center">I'm focused on Unity and C#, building games while working toward a long-term goal of becoming a software engineer and game developer.</h3>
